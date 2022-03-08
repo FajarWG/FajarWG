@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FajarWG
 - 👀 I’m interested in Develop Android Apps
-- 🌱 I’m currently learning HTML, CSS, Phython, and Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML, CSS, and python
 - 📫 How to reach me email fajarwahyugumelar@gmail.com
 
 <!---
